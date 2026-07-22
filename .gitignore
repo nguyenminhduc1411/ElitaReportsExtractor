@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Build output
+build/
+dist/
+Release/
+_internal/
+
+# Local settings
+settings.json
+
+# Generated files
+version_info.txt
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.spec
